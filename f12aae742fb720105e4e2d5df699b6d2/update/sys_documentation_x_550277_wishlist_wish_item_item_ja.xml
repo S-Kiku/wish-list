@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="item" label="Item" language="ja" table="x_550277_wishlist_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <help/>
+            <hint/>
+            <label>Item</label>
+            <language>ja</language>
+            <name>x_550277_wishlist_wish_item</name>
+            <plural>Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dev057221</sys_created_by>
+            <sys_created_on>2021-04-26 09:54:59</sys_created_on>
+            <sys_id>d5bea2782fb720105e4e2d5df699b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Item</sys_name>
+            <sys_package display_value="ウィッシュリスト" source="x_550277_wishlist">f12aae742fb720105e4e2d5df699b6d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ウィッシュリスト">f12aae742fb720105e4e2d5df699b6d2</sys_scope>
+            <sys_update_name>sys_documentation_x_550277_wishlist_wish_item_item_ja</sys_update_name>
+            <sys_updated_by>dev057221</sys_updated_by>
+            <sys_updated_on>2021-04-26 09:54:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
